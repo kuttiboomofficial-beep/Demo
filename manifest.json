@@ -1,0 +1,15 @@
+{
+  "name":"SHREE JI CONNECT",
+  "short_name":"SHREE JI CONNECT",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "orientation":"portrait",
+  "background_color":"#ffffff",
+  "theme_color":"#f28c28",
+  "description":"Professional CRM, Orders, Production, Reports, Print and WhatsApp for SHREE JI GOLD CREATOR LLP",
+  "icons":[
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
